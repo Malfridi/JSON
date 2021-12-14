@@ -1,5 +1,5 @@
 {"Info":{
-    "test":"Yeeeeeeee"
+    "test":[{"text":"Yeeeeeeee","text2":"Yuppy"}],
     "direction": -262.8749838932308, 
     "heigth": 74.0, 
     "position": [698.0, 418.25], 
