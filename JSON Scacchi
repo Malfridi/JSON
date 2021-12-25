@@ -1,0 +1,416 @@
+{
+  "PB1": [
+    {
+      "id":1,
+      "side": 0,
+      "height": 74.0,
+      "x": 698.0, 
+      "y": 418.25,
+      "ygrid": 1,
+      "xgrid": 2,
+      "width": 75.0
+    }
+  ],
+   "PB2": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 2,
+      "xgrid": 2,
+      "width": 75.0
+    }
+  ],
+  "PB3": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 3,
+      "xgrid": 2,
+      "width": 75.0
+    }
+  ],
+  "PB4": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 4,
+      "xgrid": 2,
+      "width": 75.0
+    }
+  ],
+  "PB5": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 5,
+      "xgrid": 2,
+      "width": 75.0
+    }
+  ],
+  "PB6": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 6,
+      "xgrid": 2,
+      "width": 75.0
+    }
+  ],
+  "PB7": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 7,
+      "xgrid": 2,
+      "width": 75.0
+    }
+  ],
+  "PB8": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 8,
+      "xgrid": 2,
+      "width": 75.0
+    }
+  ],
+  "PN1": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 1,
+      "xgrid": 7,
+      "width": 75.0
+    }
+  ],
+  "PN2": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 2,
+      "xgrid": 7,
+      "width": 75.0
+    }
+  ],
+  "PN3": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 3,
+      "xgrid": 7,
+      "width": 75.0
+    }
+  ],
+  "PN4": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 4,
+      "xgrid": 7,
+      "width": 75.0
+    }
+  ],
+  "PN5": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 5,
+      "xgrid": 7,
+      "width": 75.0
+    }
+  ],
+  "PN6": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 6,
+      "xgrid": 7,
+      "width": 75.0
+    }
+  ],
+  "PN7": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 7,
+      "xgrid": 7,
+      "width": 75.0
+    }
+  ],
+  "PN8": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 8,
+      "xgrid": 7,
+      "width": 75.0
+    }
+  ],
+  "TB1": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 1,
+      "xgrid": 1,
+      "width": 75.0
+    }
+  ],
+  "TB2": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 8,
+      "xgrid": 1,
+      "width": 75.0
+    }
+  ],
+  "TN1": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 1,
+      "xgrid": 8,
+      "width": 75.0
+    }
+  ],
+  "TN2": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 8,
+      "xgrid": 8,
+      "width": 75.0
+    }
+  ],
+  "CB1": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 2,
+      "xgrid": 1,
+      "width": 75.0
+    }
+  ],
+  "CB2": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 7,
+      "xgrid": 1,
+      "width": 75.0
+    }
+  ],
+  "CN1": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 2,
+      "xgrid": 8,
+      "width": 75.0
+    }
+  ],
+  "CN2": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 7,
+      "xgrid": 8,
+      "width": 75.0
+    }
+  ],
+  "AB1": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 3,
+      "xgrid": 1,
+      "width": 75.0
+    }
+  ],
+  "AB2": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 6,
+      "xgrid": 1,
+      "width": 75.0
+    }
+  ],
+  "AN1": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 3,
+      "xgrid": 8,
+      "width": 75.0
+    }
+  ],
+  "AN2": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 6,
+      "xgrid": 8,
+      "width": 75.0
+    }
+  ],
+  "REB": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 4,
+      "xgrid": 1,
+      "width": 75.0
+    }
+  ],
+  "REN": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 5,
+      "xgrid": 8,
+      "width": 75.0
+    }
+  ],
+  "RGB": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 5,
+      "xgrid": 1,
+      "width": 75.0
+    }
+  ],
+  "RGN": [
+    {
+      "id":17,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 4,
+      "xgrid": 8,
+      "width": 75.0
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 282.55,
+    "feels_like": 281.86,
+    "temp_min": 280.37,
+    "temp_max": 284.26,
+    "pressure": 1023,
+    "humidity": 100
+  },
+  "visibility": 16093,
+  "wind": {
+    "speed": 1.5,
+    "deg": 350
+  },
+  "clouds": {
+    "all": 1
+  },
+  "dt": 1560350645,
+  "sys": {
+    "type": 1,
+    "id": 5122,
+    "message": 0.0139,
+    "country": "US",
+    "sunrise": 1560343627,
+    "sunset": 1560396563
+  },
+  "timezone": -25200,
+  "id": 420006353,
+  "name": "Mountain View",
+  "cod": 200
+  }
