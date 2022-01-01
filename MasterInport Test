@@ -1,13 +1,21 @@
  "MarkerInfo": [
-    {
-      "1":["id":17,
+    {"id":17,
       "side": 0,
       "height": 200,
       "x": 34, 
       "y": 150,
       "ygrid": 4,
       "xgrid": 8,
-      "width": 75.0]
+      "width": 75.0
+    },
+   {"id":0,
+      "side": 0,
+      "height": 200,
+      "x": 34, 
+      "y": 150,
+      "ygrid": 4,
+      "xgrid": 8,
+      "width": 75.0
     }
   ],
   "base": "stations",
