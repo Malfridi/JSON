@@ -3,39 +3,36 @@
      "visible?": 1,
       "side": 0,
       "height": 10,
-      "x": 0, 
+      "x": 8, 
       "y": 0   
     },
     {"id":1,
      "visible?": 1,
       "side": 0,
       "height": 10,
-      "x": 50, 
-      "y": 50
+      "x": 8, 
+      "y": 25
     },
    {"id":2,
    "visible?": 1,
       "side": 1,
       "height": 0,
-      "x": 10, 
-      "y": 10
+      "x": 8, 
+      "y": 50
     },
     {"id":3,
     "visible?": 1,
       "side": 0,
       "height": 100,
-      "x": 100, 
-      "y": 100,
-      "ygrid": 4,
-      "xgrid": 8,
-      "width": 75.0
+      "x": 8, 
+      "y": 75
     },
     {"id":4,
     "visible?": 0,
       "side": 0,
       "height": 200,
-      "x": 34, 
-      "y": 150
+      "x": 8, 
+      "y": 100
     }
 ]
   
