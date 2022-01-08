@@ -3,29 +3,29 @@
      "visible?": 1,
       "side": 0,
       "height": 10,
-      "x": 5, 
-      "y": 5   
+      "x": 6, 
+      "y": 6   
     },
     {"id":1,
      "visible?": 1,
       "side": 0,
       "height": 10,
-      "x": 5, 
-      "y": 30
+      "x": 6, 
+      "y": 31
     },
    {"id":2,
    "visible?": 1,
       "side": 1,
       "height": 0,
-      "x": 5, 
-      "y": 55
+      "x": 6, 
+      "y": 56
     },
     {"id":3,
     "visible?": 1,
       "side": 0,
       "height": 100,
-      "x": 5, 
-      "y": 80
+      "x": 6, 
+      "y": 81
     },
     {"id":4,
     "visible?": 0,
