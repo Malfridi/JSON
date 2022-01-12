@@ -54,6 +54,62 @@
       "height": 10,
       "x": 18, 
       "y": 93
+    },
+    {"id":8,
+     "visible?": 1,
+      "side": 0,
+      "height": 10,
+      "x": 30, 
+      "y": 6   
+    },
+    {"id":9,
+     "visible?": 1,
+      "side": 0,
+      "height": 10,
+      "x": 30, 
+      "y": 31
+    },
+   {"id":10,
+   "visible?": 1,
+      "side": 1,
+      "height": 10,
+      "x": 30, 
+      "y": 56
+    },
+    {"id":11,
+    "visible?": 1,
+      "side": 0,
+      "height": 10,
+      "x": 30, 
+      "y": 81
+    },
+    {"id":12,
+    "visible?": 1,
+      "side": 0,
+      "height": 10,
+      "x": 94, 
+      "y": 6
+    },
+    {"id":13,
+    "visible?": 1,
+      "side": 0,
+      "height": 10,
+      "x": 94, 
+      "y": 31
+    },
+    {"id":6,
+    "visible?": 1,
+      "side": 0,
+      "height": 10,
+      "x": 18, 
+      "y": 56
+    },
+    {"id":7,
+    "visible?": 1,
+      "side": 0,
+      "height": 10,
+      "x": 18, 
+      "y": 81
     }
 ]
   
