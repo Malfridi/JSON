@@ -28,7 +28,7 @@
       "y": 81
     },
     {"id":4,
-    "visible?": 0,
+    "visible?": 1,
       "side": 0,
       "height": 10,
       "x": 5, 
